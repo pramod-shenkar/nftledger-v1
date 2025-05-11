@@ -1,0 +1,18 @@
+[submodule "nft-core"]
+	path = nft-core
+	url = ./nft-core
+[submodule "nft-auction"]
+	path = nft-auction
+	url = ./nft-auction/
+[submodule "nft-chain"]
+	path = nft-chain
+	url = ./nft-chain/
+[submodule "nft-deploy"]
+	path = nft-deploy
+	url = ./nft-deploy/
+[submodule "nft-ui"]
+	path = nft-ui
+	url = ./nft-ui
+[submodule "workbooks"]
+	path = workbooks
+	url = ./workbooks/
