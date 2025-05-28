@@ -1,18 +1,22 @@
 [submodule "nft-core"]
 	path = nft-core
-	url = ./nft-core
-[submodule "nft-auction"]
-	path = nft-auction
-	url = ./nft-auction/
-[submodule "nft-chain"]
-	path = nft-chain
-	url = ./nft-chain/
-[submodule "nft-deploy"]
-	path = nft-deploy
-	url = ./nft-deploy/
+	url = https://github.com/pramod-shenkar/nft-core
+[submodule "nft-protoc"]
+	path = nft-protoc
+	url = https://github.com/pramod-shenkar/nft-protoc.git
 [submodule "nft-ui"]
 	path = nft-ui
-	url = ./nft-ui
+	url = https://github.com/pramod-shenkar/nft-ui.git
+[submodule "nft-chain"]
+	path = nft-chain
+	url = https://github.com/pramod-shenkar/nft-chain/
+[submodule "nft-deploy"]
+	path = nft-deploy
+	url = https://github.com/pramod-shenkar/nft-deploy/
+[submodule "nft-auction"]
+	path = nft-auction
+	url = https://github.com/pramod-shenkar/nft-auction/
 [submodule "workbooks"]
 	path = workbooks
-	url = ./workbooks/
+	url = https://github.com/pramod-shenkar/workbooks/
+

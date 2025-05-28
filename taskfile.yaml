@@ -1,0 +1,6 @@
+version: "3"
+
+includes:
+  deploy: ./nft-deploy/taskfile.yaml
+  core: ./nft-core/taskfile.yaml
+  chain: ./nft-chain/taskfile.yaml
