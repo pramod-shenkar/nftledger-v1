@@ -4,6 +4,7 @@ use (
 	./nft-auction
 	./nft-core
 	./nft-protoc
+	./nft-ui
 	// ./nft-ui
 	./workbooks/go-ethererum-book
 )
